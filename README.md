@@ -2,7 +2,7 @@
 <h2>Listing with unit tests</h2>
 TD de NodeJS avec l'utilisation de tests unitaires. <br />
 Lancer le projet : <strong>npm install</strong> <br />
-Lancer les tests : <strong>npm run test:watch</strong> <br />
+Lancer les tests : <strong>npm run test</strong> <br />
 
 <h2>Liste des scenarios :</h2>
 <ul>

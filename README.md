@@ -4,7 +4,7 @@ TD de NodeJS avec l'utilisation de tests unitaires.
 Lancer le projet : <strong>npm install</strong>
 Lancer les tests : <strong>npm run test:watch</strong>
 
-<h2>Liste des scenarios :<h2>
+<h2>Liste des scenarios :</h2>
 <ul>
 <li>Scenario 1 : Créer une liste avec un nom</li>
 <li>Scenario 2: Supprimer une liste avec un nom</li>
